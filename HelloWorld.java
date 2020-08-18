@@ -4,6 +4,6 @@ class HelloWorld
     // Prints "Hello, World" to the terminal window. 
     public static void main(String args[]) 
     { 
-        System.out.println("Hello World!, WELCOME TO jenkins-training-task3"); 
+        System.out.println("Hello World!, WELCOME TO Leena-IT"); 
     } 
 } 
